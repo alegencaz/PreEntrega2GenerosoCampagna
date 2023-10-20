@@ -1,0 +1,34 @@
+.title-cart{
+    text-align: center;
+    margin: 1em;
+}
+
+.btn-continueShop{
+    margin: 1em;
+}
+
+.btn-deleteAllProducts{
+    margin: 1em;
+    float: right;
+}
+
+.item-cart{
+    flex-direction: column;
+    margin: 1em;
+}
+
+.img-cart{
+    width: 30vh;
+    height: 30vh;
+}
+
+.item-price{
+    margin: auto;
+}
+
+.order-summary{
+    float: right;
+    align-items: right;
+    margin: 2.5em;
+    border-color: black;
+}
